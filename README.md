@@ -1,2 +1,4 @@
 # shell-utils
-A repository for Shell Utility Programs
+A repository for OS Utilities such as ls.
+
+
